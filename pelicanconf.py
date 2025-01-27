@@ -3,7 +3,7 @@
 # ** Metadata **
 
 AUTHOR = 'Rob Teszka'
-SITENAME = 'Robmagus Nerd Shit'
+SITENAME = 'Robmagus\' Nerd Shit'
 # SITESUBTITLE = ''
 SITEURL = ""
 TIMEZONE = 'America/Vancouver'
@@ -15,6 +15,10 @@ DEFAULT_LANG = 'en'
 # FILENAME_METADATA = r'(?P<date>\\d{4}-\\d{2}-\\d{2}).*'
 # PATH_METADATA = ''
 # EXTRA_PATH_METADATA = {}
+
+# PLUGINS = None
+
+# ANALYTICS
 
 # ** Site Display & Nav Settings ** 
 
@@ -61,7 +65,6 @@ THEME = 'graymill'
 # DOCUTILS_SETTINGS = {}  # used only w reStructText
 # MARKDOWN = {...}
 # READERS = {"html": None}  # ie; avoid processing .html files
-# PLUGINS = None
 # INTRASITE_LINK_REGEX = '[{|](?P<what>.*?)[|}]'
 # FORMATTED_FIELDS = ['summary']
 
@@ -104,7 +107,6 @@ PATH = "content"
 # THEME_STATIC_DIR = 'theme'
 # STATIC_CREATE_LINKS = False
 # STATIC_CHECK_IF_MODIFIED = False
-# ANALYTICS
 
 # ** Caching and Modification Checking ** 
 
@@ -124,7 +126,7 @@ PATH = "content"
 
 # Main Menu
 MENUITEMS = (
-    ("Title", "http://example.com"),
+    ("Zombo", "http://zombo.com"),
 )
 
 GITHUB_URL = 'https://robmagus/robmagus.github.io'
@@ -132,17 +134,17 @@ GITHUB_URL = 'https://robmagus/robmagus.github.io'
 # Blogroll
 # LINKS_WIDGET_NAME = 'links'
 LINKS = (
+    ("Rob Teszka Magic", "https://robteszkaperforms.com"),
+    ("The Parlour Magic Show", "http://parlourmagic.show"),
+    ("Penny Ventures", "https://pennyventures.blogspot.com"),
     ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
 )
 
 # Social widget
 # SOCIAL_WIDGET_NAME = 'social'
 SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
+    ("Instagram", "https://instagram.com/robmagus"),
+    ("Bluesky", "https://robteszka.bluesky.social"),
 )
 
 # Feed generation is usually not desired when developing

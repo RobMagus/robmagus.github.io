@@ -5,6 +5,8 @@
 AUTHOR = 'Rob Teszka'
 SITENAME = 'Robmagus\' Nerd Shit'
 # SITESUBTITLE = ''
+# The following line is specific to the monospace theme
+DESCRIPTION = 'You are in a maze of twisty little passages, all alike.'
 SITEURL = ""
 TIMEZONE = 'America/Vancouver'
 DEFAULT_LANG = 'en'
@@ -34,6 +36,8 @@ DEFAULT_LANG = 'en'
 # SUMMARY_MAX_PARAGRAPHS = None
 # SUMMARY_END_SUFFIX = '…'
 # WITH_FUTURE_DATES = True
+# The following line is specific to the monospace theme
+MD_EXTENSIONS = ['codehilite(css_class=codehilite code)']
 # PYGMENTS_RST_OPTIONS = []
 # DEFAULT_PAGINATION = False
 # PAGINATED_TEMPLATES = {'index': None, 'tag': None, 'category': None, 'author': None}

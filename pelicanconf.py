@@ -132,9 +132,9 @@ MENUITEMS = (
 GITHUB_URL = 'https://robmagus/robmagus.github.io'
 
 # Blogroll
-LINKS_WIDGET_NAME = 'Links'
+# LINKS_WIDGET_NAME = 'links'
 LINKS = (
-    ("Rob Teszka Magic", "https://robteszkaperforms.com"),
+    ("Rob Teszka Magic", "https://robteszkamagic.com"),
     ("The Parlour Magic Show", "http://parlourmagic.show"),
     ("Penny Ventures", "https://pennyventures.blogspot.com"),
     ("Pelican", "https://getpelican.com/"),

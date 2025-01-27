@@ -41,7 +41,7 @@ DEFAULT_LANG = 'en'
 # ** Themeing ** 
 
 # CSS_FILE = 'main.css'  # 'wide.css' is available too
-THEME = 'notmyidea'
+THEME = 'graymill'
 # STYLESHEET_URL = 'https://url.com/stylesheets'
 # TEMPLATE_EXTENSIONS = ['.html']
 # DIRECT_TEMPLATES = ['index', 'authors', 'categories', 'tags', 'archives']

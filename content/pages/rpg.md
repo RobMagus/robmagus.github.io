@@ -1,5 +1,7 @@
-Title: Rob's RPG Shit
+Title: RPGs
 Slug: rpgs
+
+###Rob's RPG Shit###
 
 This is where I'll eventually put the rpg shit I come up with. Maybe I'll even port my old [blogger blog](https://pennyventures.blogspot.com/).
 

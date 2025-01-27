@@ -132,7 +132,7 @@ MENUITEMS = (
 GITHUB_URL = 'https://robmagus/robmagus.github.io'
 
 # Blogroll
-# LINKS_WIDGET_NAME = 'links'
+LINKS_WIDGET_NAME = 'Links'
 LINKS = (
     ("Rob Teszka Magic", "https://robteszkaperforms.com"),
     ("The Parlour Magic Show", "http://parlourmagic.show"),
@@ -144,7 +144,7 @@ LINKS = (
 # SOCIAL_WIDGET_NAME = 'social'
 SOCIAL = (
     ("Instagram", "https://instagram.com/robmagus"),
-    ("Bluesky", "https://robteszka.bluesky.social"),
+    ("Bluesky", "https://robteszka.bsky.social"),
 )
 
 # Feed generation is usually not desired when developing

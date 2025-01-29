@@ -35,7 +35,7 @@ body {
 }
 a { text-decoration:none; color:#F39C12; }
 /* different colors for a vs a:visited */
-a:visited { text-decoration:none; color:#9B59B6; }
+a:visited { text-decoration:none; color:#E74C3C; }
 a:hover { color:#00FFFF; /* background-color:#F39C12 */ }
 
 h1, h2, h3, h4 { margin:0px; text-transform:uppercase; } /*removed 6-7*/

@@ -45,7 +45,7 @@ Expert con artists, sharks can get anyone to trust them right up until they’re
 
 ### What The Setting Is Like
 
-What if London was cyberpunk had a little English folk horror in it?
+What if the rainy, moody London of the 80's was cyberpunk and had a little English folk horror mixed in?
 
 Thematic inspirations include
 

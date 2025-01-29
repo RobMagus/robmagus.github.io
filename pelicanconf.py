@@ -1,4 +1,4 @@
-# ** Pelican Configuration File Defaults ** 
+# ** Pelican Configuration File Defaults **
 
 # ** Metadata **
 
@@ -49,7 +49,7 @@ MD_EXTENSIONS = ['codehilite(css_class=codehilite code)']
 # ** Themeing ** 
 
 # CSS_FILE = 'main.css'  # 'wide.css' is available too
-THEME = 'monospace'
+THEME = 'themes/monospace-dark'
 # STYLESHEET_URL = 'https://url.com/stylesheets'
 # TEMPLATE_EXTENSIONS = ['.html']
 # DIRECT_TEMPLATES = ['index', 'authors', 'categories', 'tags', 'archives']

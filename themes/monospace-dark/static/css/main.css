@@ -31,7 +31,7 @@ body {
     /*v added background color, ^ changed text color  */
     background-color:#2C3E50;
 }
-a { text-decoration:none; color:#00BFAE; }
+a { text-decoration:none; color:#F39C12; }
 /* different colors for a vs a:visited */
 a:visited { text-decoration:none; color:#9B59B6; }
 a:hover { color:#00FFFF; /* background-color:#F39C12 */ }

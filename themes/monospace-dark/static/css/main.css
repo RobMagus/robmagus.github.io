@@ -38,8 +38,8 @@ a { text-decoration:none; color:#F39C12; }
 a:visited { text-decoration:none; color:#9B59B6; }
 a:hover { color:#00FFFF; /* background-color:#F39C12 */ }
 
-h1, h2, h3, h4, h5, h6, h7 { margin:0px; text-transform:uppercase; }
-h4, h5, h6 { font-size:15px; font-color:#9B59B6} /* some are purple now */
+h1, h2, h3, h4 { margin:0px; text-transform:uppercase; } /*removed 6-7*/
+h4, h5, h6 { font-size:15px; color:#9B59B6; } /* some are purple now */
 h1 { padding:0px 0px 15px; margin:0px 0px 15px 0px; }
 blockquote {
     font-style:italic; background:#EAEAEA; margin:20px; padding:5px 10px;
@@ -77,7 +77,8 @@ ul.sub-menu, ul.children { margin:0px 10px 0px 0px; }
 .thumbnail img { float:right; }
 
 .entry { font-size: 15px; line-height: 21px; }
-.entry h2, h3, h4, h5 { margin:30px 0px 10px 0px; }
+.entry h2, h3 { margin:30px 0px 10px 0px; }
+.entry h4, h5 { margin:20px 0px 8px 0px; }      /*reduced margin on h4-5*/
 .entry img { display:block; border:1px solid #BDBDBD !important; }
 .entry img.wp-smiley { border:0px !important; }
 .entry a img:hover {
